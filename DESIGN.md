@@ -1,0 +1,2 @@
+# Design authority
+A compact, accessible appointment board. Use a consistent component system with rounded cards/dialogs, clear form labels, neutral surfaces and one accent color. Centralize spacing, radii, typography and light/dark colors. Reuse components instead of per-page styles. Provide keyboard navigation, visible focus, readable contrast, responsive lane layout, empty/loading/error states and no horizontal page overflow. UI Designer documents concrete layout and component choices before implementation; browser verifier checks the implemented result.
